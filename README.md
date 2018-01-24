@@ -5,6 +5,9 @@
 master
 ![master](https://circleci.com/gh/plotly/react-plotly.js-editor/tree/master.svg?style=svg&circle-token=df4574e01732846dba81d800d062be5f0fef5641)
 
+Part of Plotly's [React Component Suite](https://plot.ly/products/react/) for building data visualization Web apps and products.
+
+
 ## Demo & Screenshots
 
 Check out the [live demo here](https://plotly.github.io/react-plotly.js-editor/).
